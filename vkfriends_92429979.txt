@@ -255,7 +255,6 @@ https://vk.com/id157702487 | Кирилл Окороков
 https://vk.com/id158029680 | Юлия Сидорова
 https://vk.com/id158731284 | Сулейман Гусеинов
 https://vk.com/id160364946 | Анастасия Фетисова
-https://vk.com/id160636441 | Татьяна Алексеева
 https://vk.com/id161659128 | Виктория Княжева
 https://vk.com/id162694739 | Ирина Косматых
 https://vk.com/id164338032 | Виктория Чикунова
@@ -457,4 +456,5 @@ https://vk.com/id462093606 | Слободская Библиотека
 https://vk.com/id471948734 | Хаустова Виктория
 https://vk.com/id476187987 | Uliana Karebina
 https://vk.com/id481812645 | Max Solo
+https://vk.com/id496529148 | Александр Корчик
 
